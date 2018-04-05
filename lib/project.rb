@@ -8,6 +8,7 @@ end
 
 def add_backer(backer)
   backers << backer
+  backer.
   
 end
 

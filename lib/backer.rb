@@ -1,7 +1,7 @@
 require 'pry'
 class Backer
   @@backed_projects = []
-  attr_accessor :name
+  attr_accessor :name, :backers 
   
   
   

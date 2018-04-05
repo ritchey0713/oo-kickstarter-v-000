@@ -18,7 +18,7 @@ class Backer
      new_project = Project.new(project)
     backed_projects << new_project 
     backed_projects
-    binding.pry
+   # binding.pry
     
   end
   

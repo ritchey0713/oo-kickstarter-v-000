@@ -20,7 +20,5 @@ class Backer
    # binding.pry
     end
     
-    def backers 
-    end
-  
+
 end 

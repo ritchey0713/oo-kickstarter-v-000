@@ -19,5 +19,8 @@ class Backer
     backed_projects << new_project 
    # binding.pry
     end
+    
+    def backers 
+    end
   
 end 
